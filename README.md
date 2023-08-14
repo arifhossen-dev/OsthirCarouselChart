@@ -1,1 +1,1 @@
-# Osthir Carousel and PiChart using chartjs
+# Osthir Carousel and PieChart using chartjs
