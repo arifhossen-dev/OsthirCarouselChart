@@ -20,6 +20,7 @@ const prev = () => {
 // navigation to Next image
 const next = () => {
   isActive.value = (isActive.value + 1 + items.value.length) % items.value.length;
+  console.log('You will see me every 5000 millisecond if carousel is visible (in DOM)');
 }
 
 // autoplay  
