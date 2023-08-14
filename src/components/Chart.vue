@@ -24,7 +24,6 @@ const randColor = () => {
 }
 
 function updateChart() {
-  alert('some test')
   if (!newLabel.value) {
     error.value = true
   }
